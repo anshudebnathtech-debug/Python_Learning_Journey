@@ -1,4 +1,4 @@
-# Variable : A variable is the name given to a memory location in a program
+# Variable : A variable is the name given to a memory location in a program. 
 
 a = 1  
 b = 3

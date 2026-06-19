@@ -1,4 +1,4 @@
-# type() function is used to find the data type of a given variable in python
+# type() function is used to find the data type of a given variable in python.
 
 a = 31
 t = type(a)
